@@ -1,0 +1,17 @@
+D:\Usuario\Alumno\Documentos\Visual Studio 2022\Fibonacci\obj\Debug\net8.0-windows\Fibonacci.FibonacciForm.resources
+D:\Usuario\Alumno\Documentos\Visual Studio 2022\Fibonacci\obj\Debug\net8.0-windows\Fibonacci.csproj.GenerateResource.cache
+D:\Usuario\Alumno\Documentos\Visual Studio 2022\Fibonacci\obj\Debug\net8.0-windows\Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuario\Alumno\Documentos\Visual Studio 2022\Fibonacci\obj\Debug\net8.0-windows\Fibonacci.AssemblyInfoInputs.cache
+D:\Usuario\Alumno\Documentos\Visual Studio 2022\Fibonacci\obj\Debug\net8.0-windows\Fibonacci.AssemblyInfo.cs
+D:\Usuario\Alumno\Documentos\Visual Studio 2022\Fibonacci\obj\Debug\net8.0-windows\Fibonacci.csproj.CoreCompileInputs.cache
+D:\Usuario\Alumno\Documentos\Visual Studio 2022\Fibonacci\bin\Debug\net8.0-windows\Fibonacci.exe
+D:\Usuario\Alumno\Documentos\Visual Studio 2022\Fibonacci\bin\Debug\net8.0-windows\Fibonacci.deps.json
+D:\Usuario\Alumno\Documentos\Visual Studio 2022\Fibonacci\bin\Debug\net8.0-windows\Fibonacci.runtimeconfig.json
+D:\Usuario\Alumno\Documentos\Visual Studio 2022\Fibonacci\bin\Debug\net8.0-windows\Fibonacci.dll
+D:\Usuario\Alumno\Documentos\Visual Studio 2022\Fibonacci\bin\Debug\net8.0-windows\Fibonacci.pdb
+D:\Usuario\Alumno\Documentos\Visual Studio 2022\Fibonacci\obj\Debug\net8.0-windows\Fibonacci.Form1.resources
+D:\Usuario\Alumno\Documentos\Visual Studio 2022\Fibonacci\obj\Debug\net8.0-windows\Fibonacci.dll
+D:\Usuario\Alumno\Documentos\Visual Studio 2022\Fibonacci\obj\Debug\net8.0-windows\refint\Fibonacci.dll
+D:\Usuario\Alumno\Documentos\Visual Studio 2022\Fibonacci\obj\Debug\net8.0-windows\Fibonacci.pdb
+D:\Usuario\Alumno\Documentos\Visual Studio 2022\Fibonacci\obj\Debug\net8.0-windows\Fibonacci.genruntimeconfig.cache
+D:\Usuario\Alumno\Documentos\Visual Studio 2022\Fibonacci\obj\Debug\net8.0-windows\ref\Fibonacci.dll
