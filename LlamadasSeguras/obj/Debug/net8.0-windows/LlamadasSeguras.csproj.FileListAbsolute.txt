@@ -1,0 +1,16 @@
+C:\Users\Montserrat Tenorio\source\repos\LlamadasSeguras\bin\Debug\net8.0-windows\LlamadasSeguras.exe
+C:\Users\Montserrat Tenorio\source\repos\LlamadasSeguras\bin\Debug\net8.0-windows\LlamadasSeguras.deps.json
+C:\Users\Montserrat Tenorio\source\repos\LlamadasSeguras\bin\Debug\net8.0-windows\LlamadasSeguras.runtimeconfig.json
+C:\Users\Montserrat Tenorio\source\repos\LlamadasSeguras\bin\Debug\net8.0-windows\LlamadasSeguras.dll
+C:\Users\Montserrat Tenorio\source\repos\LlamadasSeguras\bin\Debug\net8.0-windows\LlamadasSeguras.pdb
+C:\Users\Montserrat Tenorio\source\repos\LlamadasSeguras\obj\Debug\net8.0-windows\LlamadasSeguras.Form1.resources
+C:\Users\Montserrat Tenorio\source\repos\LlamadasSeguras\obj\Debug\net8.0-windows\LlamadasSeguras.csproj.GenerateResource.cache
+C:\Users\Montserrat Tenorio\source\repos\LlamadasSeguras\obj\Debug\net8.0-windows\LlamadasSeguras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Montserrat Tenorio\source\repos\LlamadasSeguras\obj\Debug\net8.0-windows\LlamadasSeguras.AssemblyInfoInputs.cache
+C:\Users\Montserrat Tenorio\source\repos\LlamadasSeguras\obj\Debug\net8.0-windows\LlamadasSeguras.AssemblyInfo.cs
+C:\Users\Montserrat Tenorio\source\repos\LlamadasSeguras\obj\Debug\net8.0-windows\LlamadasSeguras.csproj.CoreCompileInputs.cache
+C:\Users\Montserrat Tenorio\source\repos\LlamadasSeguras\obj\Debug\net8.0-windows\LlamadasSeguras.dll
+C:\Users\Montserrat Tenorio\source\repos\LlamadasSeguras\obj\Debug\net8.0-windows\refint\LlamadasSeguras.dll
+C:\Users\Montserrat Tenorio\source\repos\LlamadasSeguras\obj\Debug\net8.0-windows\LlamadasSeguras.pdb
+C:\Users\Montserrat Tenorio\source\repos\LlamadasSeguras\obj\Debug\net8.0-windows\LlamadasSeguras.genruntimeconfig.cache
+C:\Users\Montserrat Tenorio\source\repos\LlamadasSeguras\obj\Debug\net8.0-windows\ref\LlamadasSeguras.dll
